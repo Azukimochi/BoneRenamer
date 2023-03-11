@@ -548,4 +548,78 @@
 		<FOOT_R>RightFoot</FOOT_R>
 		<TOE_R>RightToeBase</TOE_R>
 	</avater>
+	
+	<!-- ゆきぽさん提供 -->
+	<avater>
+		<NAME>Chise</NAME>
+		<ARMATURE>Armature</ARMATURE>
+		<HIPS>Hips</HIPS>
+		<SPINE>Spine</SPINE>
+		<CHEST>Chest</CHEST>
+		<NECK>Neck</NECK>
+		<HEAD>Head</HEAD>
+		<SHOULDER_L>Shoulder_L</SHOULDER_L>
+		<UPPER_ARM_L>UpperArm_L</UPPER_ARM_L>
+		<LOWER_ARM_L>LowerArm_L</LOWER_ARM_L>
+		<HAND_L>Hand_L</HAND_L>
+		<FINGER_INDEX_L>Index Proximal.L</FINGER_INDEX_L>
+		<FINGER_LITTLE_L>Little Proximal.L</FINGER_LITTLE_L>
+		<FINGER_MIDDLE_L>Middle Proximal.L</FINGER_MIDDLE_L>
+		<FINGER_RING_L>Ring Proximal.L</FINGER_RING_L>
+		<FINGER_THUMB_L>Thumb Intermediate.L.001</FINGER_THUMB_L>
+		<SHOULDER_R>Shoulder_R</SHOULDER_R>
+		<UPPER_ARM_R>UpperArm_R</UPPER_ARM_R>
+		<LOWER_ARM_R>LowerArm_R</LOWER_ARM_R>
+		<HAND_R>Hand_R</HAND_R>
+		<FINGER_INDEX_R>Index Proximal.R</FINGER_INDEX_R>
+		<FINGER_LITTLE_R>Little Proximal.R</FINGER_LITTLE_R>
+		<FINGER_MIDDLE_R>Middle Proximal.R</FINGER_MIDDLE_R>
+		<FINGER_RING_R>Ring Proximal.R</FINGER_RING_R>
+		<FINGER_THUMB_LR>Thumb Intermediate.R.001</FINGER_THUMB_LR>
+		<UPPER_LEG_L>UpperLeg_L</UPPER_LEG_L>
+		<LOWER_LEG_L>LowerLeg_L</LOWER_LEG_L>
+		<FOOT_L>Foot_L</FOOT_L>
+		<TOE_L>_</TOE_L>
+		<UPPER_LEG_R>UpperLeg_R</UPPER_LEG_R>
+		<LOWER_LEG_R>LowerLeg_R</LOWER_LEG_R>
+		<FOOT_R>Foot_R</FOOT_R>
+		<TOE_R>_</TOE_R>
+	</avater>
+	
+	<!-- ゆきぽさん提供 -->
+	<avater>
+		<NAME>Haolan</NAME>
+		<ARMATURE>Armature</ARMATURE>
+		<HIPS>Hips</HIPS>
+		<SPINE>Spine</SPINE>
+		<CHEST>Chest</CHEST>
+		<NECK>Neck</NECK>
+		<HEAD>Head</HEAD>
+		<SHOULDER_L>Shoulder_L</SHOULDER_L>
+		<UPPER_ARM_L>UpperArm_L</UPPER_ARM_L>
+		<LOWER_ARM_L>LowerArm_L</LOWER_ARM_L>
+		<HAND_L>Hand_L</HAND_L>
+		<FINGER_INDEX_L>Index Proximal.L</FINGER_INDEX_L>
+		<FINGER_LITTLE_L>Little Proximal.L</FINGER_LITTLE_L>
+		<FINGER_MIDDLE_L>Middle Proximal.L</FINGER_MIDDLE_L>
+		<FINGER_RING_L>Ring Proximal.L</FINGER_RING_L>
+		<FINGER_THUMB_L>Thumb Intermediate.L.001</FINGER_THUMB_L>
+		<SHOULDER_R>Shoulder_R</SHOULDER_R>
+		<UPPER_ARM_R>UpperArm_R</UPPER_ARM_R>
+		<LOWER_ARM_R>LowerArm_R</LOWER_ARM_R>
+		<HAND_R>Hand_R</HAND_R>
+		<FINGER_INDEX_R>Index Proximal.R</FINGER_INDEX_R>
+		<FINGER_LITTLE_R>Little Proximal.R</FINGER_LITTLE_R>
+		<FINGER_MIDDLE_R>Middle Proximal.R</FINGER_MIDDLE_R>
+		<FINGER_RING_R>Ring Proximal.R</FINGER_RING_R>
+		<FINGER_THUMB_LR>Thumb Intermediate.R.001</FINGER_THUMB_LR>
+		<UPPER_LEG_L>UpperLeg_L</UPPER_LEG_L>
+		<LOWER_LEG_L>LowerLeg_L</LOWER_LEG_L>
+		<FOOT_L>Foot_L</FOOT_L>
+		<TOE_L>_</TOE_L>
+		<UPPER_LEG_R>UpperLeg_R</UPPER_LEG_R>
+		<LOWER_LEG_R>LowerLeg_R</LOWER_LEG_R>
+		<FOOT_R>Foot_R</FOOT_R>
+		<TOE_R>_</TOE_R>
+	</avater>
 </Avaters>
