@@ -32,7 +32,5 @@ INABAちゃん(Inaba)
 ルシフェちゃん(Lucife)  
 レイニィちゃん(Rainy)  
 シグちゃん（Shigu)  
-
-次回実装予定：
- チセちゃん
- ハオランくん
+チセちゃん (Chise)
+ハオランくん (Haolan)
