@@ -5,7 +5,6 @@ using UnityEditor;
 using System.Linq;
 using System.Xml.Linq;
 using AvaterInfo;
-using TMPro;
 using Unity.Collections;
 using System;
 
