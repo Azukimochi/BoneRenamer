@@ -1,0 +1,17 @@
+{
+  "name": "io.github.azukimochi.bone-renamer",
+  "version": "1.1.0",
+  "displayName": "BoneRenamer",
+  "description": "Bone renaming tool for VRChat avaters",
+  "author": {
+    "name": "Azukimochi",
+    "url": "https://github.com/Azukimochi"
+  }
+  "url" : "",
+    "legacyFolders" : {
+      "Assets/BoneRenamer" : "1a1fd95269132864b831abd62e2889e1"
+    },
+  
+}
+
+
