@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
+using UnityEditor;
 using UnityEngine;
 
 namespace AvaterInfo
@@ -53,7 +54,8 @@ namespace AvaterInfo
 
         public XMLLoader ()
         {
-            xml = XElement.Load(@"Assets/BoneRenamer/Editor/BoneNames.xml");
+            var path = AssetDatabase.GUIDToAssetPath("47081239d4c81964ea0b40ebe97514ee");
+            xml = XElement.Load(path);
             elements = from item in xml.Elements("avater")
                                              select item;
         }
