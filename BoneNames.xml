@@ -88,8 +88,8 @@
 		<RightLowerArm>lower_arm.R</RightLowerArm>
 		<LeftHand>hand.L</LeftHand>
 		<RightHand>hand.R</RightHand>
-		<LeftToes>NONE</LeftToes>
-		<RightToes>NONE</RightToes>
+		<LeftToes>toe.L</LeftToes>
+		<RightToes>toe.R</RightToes>
 		<LeftEye>LeftEye</LeftEye>
 		<RightEye>RightEye</RightEye>
 		<Jaw>NONE</Jaw>
