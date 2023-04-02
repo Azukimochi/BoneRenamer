@@ -622,4 +622,41 @@
 		<FOOT_R>Foot_R</FOOT_R>
 		<TOE_R>_</TOE_R>
 	</avater>
+	
+	<!-- えにたまごさん提供 -->
+	<avater>
+		<NAME>KokuriRuru</NAME>
+		<ARMATURE>Armature</ARMATURE>
+		<HIPS>Hips</HIPS>
+		<SPINE>Spine</SPINE>
+		<CHEST>Chest</CHEST>
+		<NECK>Neck</NECK>
+		<HEAD>Head</HEAD>
+		<SHOULDER_L>Shoulder_L</SHOULDER_L>
+		<UPPER_ARM_L>Arm_L</UPPER_ARM_L>
+		<LOWER_ARM_L>Elbow_L</LOWER_ARM_L>
+		<HAND_L>Wrist_L</HAND_L>
+		<FINGER_INDEX_L>IndexFinger1_L</FINGER_INDEX_L>
+		<FINGER_LITTLE_L>LittleFinger1_L</FINGER_LITTLE_L>
+		<FINGER_MIDDLE_L>MiddleFinger1_L</FINGER_MIDDLE_L>
+		<FINGER_RING_L>RingFinger1_L</FINGER_RING_L>
+		<FINGER_THUMB_L>Thumb1_L</FINGER_THUMB_L>
+		<SHOULDER_R>Shoulder_R</SHOULDER_R>
+		<UPPER_ARM_R>Arm_R</UPPER_ARM_R>
+		<LOWER_ARM_R>Elbow_R</LOWER_ARM_R>
+		<HAND_R>Wrist_R</HAND_R>
+		<FINGER_INDEX_R>IndexFinger1_R</FINGER_INDEX_R>
+		<FINGER_LITTLE_R>LittleFinger1_R</FINGER_LITTLE_R>
+		<FINGER_MIDDLE_R>MiddleFinger1_R</FINGER_MIDDLE_R>
+		<FINGER_RING_R>RingFinger1_R</FINGER_RING_R>
+		<FINGER_THUMB_LR>Thumb1_R</FINGER_THUMB_LR>
+		<UPPER_LEG_L>Leg_L</UPPER_LEG_L>
+		<LOWER_LEG_L>Knee_L</LOWER_LEG_L>
+		<FOOT_L>Ankle_L</FOOT_L>
+		<TOE_L>Toe_L</TOE_L>
+		<UPPER_LEG_R>Leg_R</UPPER_LEG_R>
+		<LOWER_LEG_R>Knee_R</LOWER_LEG_R>
+		<FOOT_R>Ankle_R</FOOT_R>
+		<TOE_R>Toe_R</TOE_R>
+	</avater>
 </Avaters>
