@@ -44,4 +44,4 @@
 - シグちゃん（Shigu)
 - チセちゃん (Chise)
 - ハオランくん (Haolan)
-- こくりるる (KokuriRuru)
+- 狐九里るる (KokuriRuru)
