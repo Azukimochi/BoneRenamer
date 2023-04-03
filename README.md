@@ -34,3 +34,4 @@ ModularAvaterを使用して非対応衣装を着せる際などの使用を想�
 - シグちゃん（Shigu)
 - チセちゃん (Chise)
 - ハオランくん (Haolan)
+- 狐九里るるちゃん(KokuriRuru)
