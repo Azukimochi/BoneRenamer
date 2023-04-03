@@ -1111,4 +1111,71 @@
 		<LeftBreastRoot>BustDynamicBone.L.001</LeftBreastRoot>
 		<LeftBreastEnd>BustDynamicBone.L.002</LeftBreastEnd>
 	</avater>
+
+	<!-- 狐九里るるちゃん えにたまごさん提供 -->
+	<avater>
+		<NAME>KokuriRuru</NAME>
+		<Hips>Hips</Hips>
+		<LeftUpperLeg>Leg_L</LeftUpperLeg>
+		<RightUpperLeg>Leg_R</RightUpperLeg>
+		<LeftLowerLeg>Knee_L</LeftLowerLeg>
+		<RightLowerLeg>Knee_R</RightLowerLeg>
+		<LeftFoot>Ankle_L</LeftFoot>
+		<RightFoot>Ankle_R</RightFoot>
+		<Spine>Spine</Spine>
+		<Chest>Chest</Chest>
+		<Neck>Neck</Neck>
+		<Head>Head</Head>
+		<LeftShoulder>Shoulder_L</LeftShoulder>
+		<RightShoulder>Shoulder_R</RightShoulder>
+		<LeftUpperArm>Arm_L</LeftUpperArm>
+		<RightUpperArm>Arm_R</RightUpperArm>
+		<LeftLowerArm>Elbow_L</LeftLowerArm>
+		<RightLowerArm>Elbow_R</RightLowerArm>
+		<LeftHand>Wrist_L</LeftHand>
+		<RightHand>Wrist_R</RightHand>
+		<LeftToes>Toe_L</LeftToes>
+		<RightToes>Toe_R</RightToes>
+		<LeftEye>Eye_L</LeftEye>
+		<RightEye>Eye_R</RightEye>
+		<Jaw>NONE</Jaw>
+		<LeftThumbProximal>Thumb1_L</LeftThumbProximal>
+		<LeftThumbIntermediate>Thumb2_L</LeftThumbIntermediate>
+		<LeftThumbDistal>Thumb3_L</LeftThumbDistal>
+		<LeftIndexProximal>IndexFinger1_L</LeftIndexProximal>
+		<LeftIndexIntermediate>IndexFinger2_L</LeftIndexIntermediate>
+		<LeftIndexDistal>IndexFinger3_L</LeftIndexDistal>
+		<LeftMiddleProximal>MiddleFinger1_L</LeftMiddleProximal>
+		<LeftMiddleIntermediate>MiddleFinger2_L</LeftMiddleIntermediate>
+		<LeftMiddleDistal>MiddleFinger3_L</LeftMiddleDistal>
+		<LeftRingProximal>RingFinger1_L</LeftRingProximal>
+		<LeftRingIntermediate>RingFinger2_L</LeftRingIntermediate>
+		<LeftRingDistal>RingFinger3_L</LeftRingDistal>
+		<LeftLittleProximal>LittleFinger1_L</LeftLittleProximal>
+		<LeftLittleIntermediate>LittleFinger2_L</LeftLittleIntermediate>
+		<LeftLittleDistal>LittleFinger3_L</LeftLittleDistal>
+		<RightThumbProximal>Thumb1_R</RightThumbProximal>
+		<RightThumbIntermediate>Thumb2_R</RightThumbIntermediate>
+		<RightThumbDistal>Thumb3_R</RightThumbDistal>
+		<RightIndexProximal>IndexFinger1_R</RightIndexProximal>
+		<RightIndexIntermediate>IndexFinger2_R</RightIndexIntermediate>
+		<RightIndexDistal>IndexFinger3_R</RightIndexDistal>
+		<RightMiddleProximal>MiddleFinger1_R</RightMiddleProximal>
+		<RightMiddleIntermediate>MiddleFinger2_R</RightMiddleIntermediate>
+		<RightMiddleDistal>MiddleFinger3_R</RightMiddleDistal>
+		<RightRingProximal>RingFinger1_R</RightRingProximal>
+		<RightRingIntermediate>RingFinger2_R</RightRingIntermediate>
+		<RightRingDistal>RingFinger3_R</RightRingDistal>
+		<RightLittleProximal>LittleFinger1_R</RightLittleProximal>
+		<RightLittleIntermediate>LittleFinger2_R</RightLittleIntermediate>
+		<RightLittleDistal>LittleFinger3_R</RightLittleDistal>
+		<UpperChest>NONE</UpperChest>
+		<LastBone>NONE</LastBone>
+		------Options------
+		<RightBreastRoot>Breast0_R</RightBreastRoot>
+		<RightBreastEnd>Breast1_R</RightBreastEnd>
+		<LeftBreastRoot>Breast0_L</LeftBreastRoot>
+		<LeftBreastEnd>Breast1_L</LeftBreastEnd>
+	</avater>
+
 </Avaters>
