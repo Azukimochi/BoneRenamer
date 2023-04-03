@@ -69,8 +69,10 @@ namespace AvaterInfo
             RightLittleDistal,
             LastBone,
             RightBreastRoot,
+            RightBreastMid,
             RightBreastEnd,
             LeftBreastRoot,
+            LeftBreastMid,
             LeftBreastEnd
         }
         static XElement xml;

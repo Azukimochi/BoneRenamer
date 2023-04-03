@@ -62,8 +62,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>Breast.R.001</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>Breast.R.002</RightBreastEnd>
 		<LeftBreastRoot>Breast.L.001</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>Breast.L.002</LeftBreastEnd>
 	</avater>
 
@@ -128,8 +130,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>NONE</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>NONE</RightBreastEnd>
 		<LeftBreastRoot>NONE</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 
@@ -194,8 +198,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>NONE</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>NONE</RightBreastEnd>
 		<LeftBreastRoot>NONE</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 
@@ -260,8 +266,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>Breasts.R</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>NONE</RightBreastEnd>
 		<LeftBreastRoot>Breasts.L</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 
@@ -326,8 +334,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>BustDynamicBone.R.001</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>BustDynamicBone.R.002</RightBreastEnd>
 		<LeftBreastRoot>BustDynamicBone.L.001</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>BustDynamicBone.L.002</LeftBreastEnd>
 	</avater>
 
@@ -392,8 +402,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>breast_R</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>breast_R_end</RightBreastEnd>
 		<LeftBreastRoot>breast_L</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>breast_L_end</LeftBreastEnd>
 	</avater>
 
@@ -457,12 +469,12 @@
 		<UpperChest>NONE</UpperChest>
 		<LastBone>NONE</LastBone>
 		------Options------
-		<RightBreastRoot>Breast_root.L</RightBreastRoot>
-		<RightBreastEnd>Breast_2.L</RightBreastEnd>
-		<LeftBreastRoot>Breast_root.R</LeftBreastRoot>
-		<LeftBreastEnd>Breast_2.R</LeftBreastEnd>
+		<RightBreastRoot>Breast_root.R</RightBreastRoot>
 		<RightBreastMid>Breast_1.R</RightBreastMid>
+		<RightBreastEnd>Breast_2.R</RightBreastEnd>
+		<LeftBreastRoot>Breast_root.L</LeftBreastRoot>
 		<LeftBreastMid>Breast_1.L</LeftBreastMid>
+		<LeftBreastEnd>Breast_2.L</LeftBreastEnd>
 	</avater>
 	
 	<!-- ライカちゃん かすみん提供 -->
@@ -526,11 +538,11 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>Front Chest_R</RightBreastRoot>
+		<RightBreastMid>Front Chest_R.001</RightBreastMid>
 		<RightBreastEnd>Front Chest_R.001_end</RightBreastEnd>
 		<LeftBreastRoot>Front Chest_L</LeftBreastRoot>
-		<LeftBreastEnd>Front Chest_L.001_end</LeftBreastEnd>
-		<RightBreastMid>Front Chest_R.001</RightBreastMid>
 		<LeftBreastMid>Front Chest_L.001</LeftBreastMid>
+		<LeftBreastEnd>Front Chest_L.001_end</LeftBreastEnd>
 	</avater>
 
 	<!-- セレスティアちゃん かすみん提供 -->
@@ -594,11 +606,11 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>Breast_R</RightBreastRoot>
+		<RightBreastMid>Breast_R.001</RightBreastMid>
 		<RightBreastEnd>Breast_R.001_end</RightBreastEnd>
 		<LeftBreastRoot>Breast_L</LeftBreastRoot>
-		<LeftBreastEnd>Breast_L.001_end</LeftBreastEnd>
-		<RightBreastMid>Breast_R.001</RightBreastMid>
 		<LeftBreastMid>Breast_L.001</LeftBreastMid>
+		<LeftBreastEnd>Breast_L.001_end</LeftBreastEnd>
 	</avater>
 	
 	<!-- シエルちゃん かすみん提供 -->
@@ -662,11 +674,11 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>Right Breast1</RightBreastRoot>
+		<RightBreastMid>Right Breast2</RightBreastMid>
 		<RightBreastEnd>Right Breast2_end</RightBreastEnd>
 		<LeftBreastRoot>Left Breast1</LeftBreastRoot>
-		<LeftBreastEnd>Left Breast2_end</LeftBreastEnd>
-		<RightBreastMid>Right Breast2</RightBreastMid>
 		<LeftBreastMid>Left Breast2</LeftBreastMid>
+		<LeftBreastEnd>Left Breast2_end</LeftBreastEnd>
 	</avater>
 	
 	<!-- サフィーちゃん かすみん提供 -->
@@ -730,11 +742,11 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>Breast_R</RightBreastRoot>
+		<RightBreastMid>Breast_R.001</RightBreastMid>
 		<RightBreastEnd>Breast_R.001_end</RightBreastEnd>
 		<LeftBreastRoot>Breast_L</LeftBreastRoot>
-		<LeftBreastEnd>Breast_L.001_end</LeftBreastEnd>
-		<RightBreastMid>Breast_R.001</RightBreastMid>
 		<LeftBreastMid>Breast_L.001</LeftBreastMid>
+		<LeftBreastEnd>Breast_L.001_end</LeftBreastEnd>
 	</avater>
 	
 	<!-- セフィラちゃん かすみん提供 -->
@@ -798,8 +810,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>BustDynamicBone.R.001</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>BustDynamicBone.R.002</RightBreastEnd>
 		<LeftBreastRoot>BustDynamicBone.L.001</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>BustDynamicBone.L.002</LeftBreastEnd>
 	</avater>
 	
@@ -864,12 +878,14 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>breast_R</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>NONE</RightBreastEnd>
 		<LeftBreastRoot>breast_L</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 	
-	<!-- ミーチェちゃん かすみん提供 -->
+	<!-- ミーシェちゃん かすみん提供 -->
 	<avater>
 		<NAME>Mishe</NAME>
 		<Hips>Hips</Hips>
@@ -930,8 +946,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>NONE</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>NONE</RightBreastEnd>
 		<LeftBreastRoot>NONE</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 	
@@ -996,55 +1014,66 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>NONE</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>NONE</RightBreastEnd>
 		<LeftBreastRoot>NONE</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 		
-	<!-- イナバちゃん ゆきぽさん提供 -->
+	<!-- イナバちゃん ゆきぽさん提供 
 	<avater>
 		<NAME>Inaba</NAME>
 	</avater>
+	-->
 
-	<!-- 千春ちゃん ゆきぽさん提供 -->
+	<!-- 千春ちゃん ゆきぽさん提供
 	<avater>
 		<NAME>Chiharu</NAME>
 	</avater>
+	-->
 
-	<!-- りあちゃん ゆきぽさん提供 -->
+	<!-- りあちゃん ゆきぽさん提供 
 	<avater>
 		<NAME>LiaChan</NAME>
 	</avater>
+	-->
 
-	<!-- リセちゃん ゆきぽさん提供 -->
+	<!-- リセちゃん ゆきぽさん提供 
 	<avater>
 		<NAME>Lise</NAME>
 	</avater>
+	-->
 
-	<!-- ルシフェちゃん ゆきぽさん提供 -->
+	<!-- ルシフェちゃん ゆきぽさん提供 
 	<avater>
 		<NAME>Lucife</NAME>
 	</avater>
+	-->
 
-	<!-- レイニィちゃん ゆきぽさん提供 -->
+	<!-- レイニィちゃん ゆきぽさん提供 
 	<avater>
 		<NAME>Rainy</NAME>
 	</avater>
+	-->
 
-	<!-- シグちゃん ゆきぽさん提供 -->
+	<!-- シグちゃん ゆきぽさん提供 
 	<avater>
 		<NAME>Shigu</NAME>
 	</avater>
+	-->
 	
-	<!-- チセちゃん ゆきぽさん提供 -->
+	<!-- チセちゃん ゆきぽさん提供 
 	<avater>
 		<NAME>Chise</NAME>
 	</avater>
+	-->
 	
-	<!-- ハオランくん ゆきぽさん提供 -->
+	<!-- ハオランくん ゆきぽさん提供 
 	<avater>
 		<NAME>Haolan</NAME>
 	</avater>
+	-->
 
 	<!-- ナユちゃん しぶやぴーさん提供 -->
 	<avater>
@@ -1107,8 +1136,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>BustDynamicBone.R.001</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>BustDynamicBone.R.002</RightBreastEnd>
 		<LeftBreastRoot>BustDynamicBone.L.001</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>BustDynamicBone.L.002</LeftBreastEnd>
 	</avater>
 
@@ -1173,8 +1204,10 @@
 		<LastBone>NONE</LastBone>
 		------Options------
 		<RightBreastRoot>Breast0_R</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
 		<RightBreastEnd>Breast1_R</RightBreastEnd>
 		<LeftBreastRoot>Breast0_L</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>Breast1_L</LeftBreastEnd>
 	</avater>
 
