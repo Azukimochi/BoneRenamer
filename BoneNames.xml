@@ -1021,6 +1021,74 @@
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 		
+	<!-- 萌ちゃん かすみん提供 -->
+	<avater>
+		<NAME>Moe</NAME>
+		<Hips>Hips</Hips>
+		<LeftUpperLeg>Left leg</LeftUpperLeg>
+		<RightUpperLeg>Right leg</RightUpperLeg>
+		<LeftLowerLeg>Left knee</LeftLowerLeg>
+		<RightLowerLeg>Right knee</RightLowerLeg>
+		<LeftFoot>Left ankle</LeftFoot>
+		<RightFoot>Right ankle</RightFoot>
+		<Spine>Spine</Spine>
+		<Chest>Chest</Chest>
+		<Neck>Neck</Neck>
+		<Head>Head</Head>
+		<LeftShoulder>Left shoulder</LeftShoulder>
+		<RightShoulder>Right shoulder</RightShoulder>
+		<LeftUpperArm>Left arm</LeftUpperArm>
+		<RightUpperArm>Right arm</RightUpperArm>
+		<LeftLowerArm>Left elbow</LeftLowerArm>
+		<RightLowerArm>Right elbow</RightLowerArm>
+		<LeftHand>Left wrist</LeftHand>
+		<RightHand>Right wrist</RightHand>
+		<LeftToes>NONE</LeftToes>
+		<RightToes>NONE</RightToes>
+		<LeftEye>Eye_L</LeftEye>
+		<RightEye>Eye_R</RightEye>
+		<Jaw>NONE</Jaw>
+		<LeftThumbProximal>Thumb_Proximal_L</LeftThumbProximal>
+		<LeftThumbIntermediate>Thumb_Intermediate_L</LeftThumbIntermediate>
+		<LeftThumbDistal>Thumb_Distal_L</LeftThumbDistal>
+		<LeftIndexProximal>Index_Proximal_L</LeftIndexProximal>
+		<LeftIndexIntermediate>Index_Intermediate_L</LeftIndexIntermediate>
+		<LeftIndexDistal>Index_Distal_L</LeftIndexDistal>
+		<LeftMiddleProximal>Middle_Proximal_L</LeftMiddleProximal>
+		<LeftMiddleIntermediate>Middle_Intermediate_L</LeftMiddleIntermediate>
+		<LeftMiddleDistal>Middle_Distal_L</LeftMiddleDistal>
+		<LeftRingProximal>Ring_Proximal_L</LeftRingProximal>
+		<LeftRingIntermediate>Ring_Intermediate_L</LeftRingIntermediate>
+		<LeftRingDistal>Ring_Distal_L</LeftRingDistal>
+		<LeftLittleProximal>Little_Proximal_L</LeftLittleProximal>
+		<LeftLittleIntermediate>Little_Intermediate_L</LeftLittleIntermediate>
+		<LeftLittleDistal>Little_Distal_L</LeftLittleDistal>
+		<RightThumbProximal>Thumb_Proximal_R</RightThumbProximal>
+		<RightThumbIntermediate>Thumb_Intermediate_R</RightThumbIntermediate>
+		<RightThumbDistal>Thumb_Distal_R</RightThumbDistal>
+		<RightIndexProximal>Index_Proximal_R</RightIndexProximal>
+		<RightIndexIntermediate>Index_Intermediate_R</RightIndexIntermediate>
+		<RightIndexDistal>Index_Distal_R</RightIndexDistal>
+		<RightMiddleProximal>Middle_Proximal_R</RightMiddleProximal>
+		<RightMiddleIntermediate>Middle_Intermediate_R</RightMiddleIntermediate>
+		<RightMiddleDistal>Middle_Distal_R</RightMiddleDistal>
+		<RightRingProximal>Ring_Proximal_R</RightRingProximal>
+		<RightRingIntermediate>Ring_Intermediate_R</RightRingIntermediate>
+		<RightRingDistal>Ring_Distal_R</RightRingDistal>
+		<RightLittleProximal>Little_Proximal_R</RightLittleProximal>
+		<RightLittleIntermediate>Little_Intermediate_R</RightLittleIntermediate>
+		<RightLittleDistal>Little_Distal_R</RightLittleDistal>
+		<UpperChest>NONE</UpperChest>
+		<LastBone>NONE</LastBone>
+		------Options------
+		<RightBreastRoot>breast_R</RightBreastRoot>
+		<RightBreastMid>breast_R.001</RightBreastMid>
+		<RightBreastEnd>breast_R.002</RightBreastEnd>
+		<LeftBreastRoot>breast_L</LeftBreastRoot>
+		<LeftBreastMid>breast_L.001</LeftBreastMid>
+		<LeftBreastEnd>breast_L.002</LeftBreastEnd>
+	</avater>
+	
 	<!-- イナバちゃん ゆきぽさん提供 -->
 	<avater>
 		<NAME>INABA</NAME>
