@@ -363,8 +363,8 @@
 		<RightLowerArm>Right elbow</RightLowerArm>
 		<LeftHand>Left wrist</LeftHand>
 		<RightHand>Right wrist</RightHand>
-		<LeftToes>NONE</LeftToes>
-		<RightToes>NONE</RightToes>
+		<LeftToes>Left Toe</LeftToes>
+		<RightToes>Right Toe</RightToes>
 		<LeftEye>Eye_L</LeftEye>
 		<RightEye>Eye_R</RightEye>
 		<Jaw>NONE</Jaw>
@@ -1043,8 +1043,8 @@
 		<RightLowerArm>Right elbow</RightLowerArm>
 		<LeftHand>Left wrist</LeftHand>
 		<RightHand>Right wrist</RightHand>
-		<LeftToes>NONE</LeftToes>
-		<RightToes>NONE</RightToes>
+		<LeftToes>Left Toe</LeftToes>
+		<RightToes>Right Toe</RightToes>
 		<LeftEye>Eye_L</LeftEye>
 		<RightEye>Eye_R</RightEye>
 		<Jaw>NONE</Jaw>
@@ -1111,8 +1111,8 @@
 		<RightLowerArm>Lower Arm.R</RightLowerArm>
 		<LeftHand>Hand.L</LeftHand>
 		<RightHand>Hand.R</RightHand>
-		<LeftToes>NONE</LeftToes>
-		<RightToes>NONE</RightToes>
+		<LeftToes>Toe.L</LeftToes>
+		<RightToes>Toe.R</RightToes>
 		<LeftEye>eye.left</LeftEye>
 		<RightEye>eye.right</RightEye>
 		<Jaw>NONE</Jaw>
@@ -1565,7 +1565,7 @@
 		<LeftBreastEnd>Breasts_L_end</LeftBreastEnd>
 	</avater>
 	
-	<!-- チセちゃん ゆきぽさん提供 -->
+	<!-- チセちゃん ゆきぽさん提供 Toe確認済み-->
 	<avater>
 		<NAME>Chise</NAME>
 		<Hips>Hips</Hips>
@@ -1633,7 +1633,7 @@
 		<LeftBreastEnd>Breast_2.L</LeftBreastEnd>
 	</avater>
 	
-	<!-- ハオランくん ゆきぽさん提供 -->
+	<!-- ハオランくん ゆきぽさん提供 Toe確認済み-->
 	<avater>
 		<NAME>Haolan</NAME>
 		<Hips>Hips</Hips>
