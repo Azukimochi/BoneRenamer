@@ -56,3 +56,4 @@
 - トトちゃん (TotoChan)
 - 萌ちゃん (Moe)
 - 薄荷ちゃん(Hakka)
+- 龍のヨルちゃん Ver.4系(Yoll)
