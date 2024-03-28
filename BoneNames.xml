@@ -1974,7 +1974,75 @@
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 
-	<!-- Lasyusha -->
+	<!-- 龍のヨルちゃん Ver.4系 -->
+	<avater>
+		<NAME>Yoll</NAME>
+		<Hips>Hips</Hips>
+		<LeftUpperLeg>LeftUpperLeg</LeftUpperLeg>
+		<RightUpperLeg>RightUpperLeg</RightUpperLeg>
+		<LeftLowerLeg>LeftLowerLeg</LeftLowerLeg>
+		<RightLowerLeg>RightLowerLeg</RightLowerLeg>
+		<LeftFoot>Left ankle</LeftFoot>
+		<RightFoot>Right ankle</RightFoot>
+		<Spine>Spine</Spine>
+		<Chest>Chest</Chest>
+		<Neck>Neck</Neck>
+		<Head>Head</Head>
+		<LeftShoulder>LeftShoulder</LeftShoulder>
+		<RightShoulder>RightShoulder</RightShoulder>
+		<LeftUpperArm>LeftUpperArm</LeftUpperArm>
+		<RightUpperArm>RightUpperArm</RightUpperArm>
+		<LeftLowerArm>LeftLowerArm</LeftLowerArm>
+		<RightLowerArm>RightLowerArm</RightLowerArm>
+		<LeftHand>LeftHand</LeftHand>
+		<RightHand>RightHand</RightHand>
+		<LeftToes>NONE</LeftToes>
+		<RightToes>NONE</RightToes>
+		<LeftEye>LeftEye</LeftEye>
+		<RightEye>RightEye</RightEye>
+		<Jaw>NONE</Jaw>
+		<LeftThumbProximal>Thumb1_L</LeftThumbProximal>
+		<LeftThumbIntermediate>Thumb2_L</LeftThumbIntermediate>
+		<LeftThumbDistal>Thumb3_L</LeftThumbDistal>
+		<LeftIndexProximal>IndexFinger1_L</LeftIndexProximal>
+		<LeftIndexIntermediate>IndexFinger2_L</LeftIndexIntermediate>
+		<LeftIndexDistal>IndexFinger3_L</LeftIndexDistal>
+		<LeftMiddleProximal>MiddleFinger1_L</LeftMiddleProximal>
+		<LeftMiddleIntermediate>MiddleFinger2_L</LeftMiddleIntermediate>
+		<LeftMiddleDistal>MiddleFinger3_L</LeftMiddleDistal>
+		<LeftRingProximal>RingFinger1_L</LeftRingProximal>
+		<LeftRingIntermediate>RingFinger2_L</LeftRingIntermediate>
+		<LeftRingDistal>RingFinger3_L</LeftRingDistal>
+		<LeftLittleProximal>LittleFinger1_L</LeftLittleProximal>
+		<LeftLittleIntermediate>LittleFinger2_L</LeftLittleIntermediate>
+		<LeftLittleDistal>LittleFinger3_L</LeftLittleDistal>
+		<RightThumbProximal>Thumb1_R</RightThumbProximal>
+		<RightThumbIntermediate>Thumb2_R</RightThumbIntermediate>
+		<RightThumbDistal>Thumb3_R</RightThumbDistal>
+		<RightIndexProximal>IndexFinger1_R</RightIndexProximal>
+		<RightIndexIntermediate>IndexFinger2_R</RightIndexIntermediate>
+		<RightIndexDistal>IndexFinger3_R</RightIndexDistal>
+		<RightMiddleProximal>MiddleFinger1_R</RightMiddleProximal>
+		<RightMiddleIntermediate>MiddleFinger2_R</RightMiddleIntermediate>
+		<RightMiddleDistal>MiddleFinger3_R</RightMiddleDistal>
+		<RightRingProximal>RingFinger1_R</RightRingProximal>
+		<RightRingIntermediate>RingFinger2_R</RightRingIntermediate>
+		<RightRingDistal>RingFinger3_R</RightRingDistal>
+		<RightLittleProximal>LittleFinger1_R</RightLittleProximal>
+		<RightLittleIntermediate>LittleFinger2_R</RightLittleIntermediate>
+		<RightLittleDistal>LittleFinger3_R</RightLittleDistal>
+		<UpperChest>NONE</UpperChest>
+		<LastBone>NONE</LastBone>
+		------Options------
+		<RightBreastRoot>RightBust1</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
+		<RightBreastEnd>NONE</RightBreastEnd>
+		<LeftBreastRoot>LeftBust1</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
+		<LeftBreastEnd>NONE</LeftBreastEnd>
+	</avater>
+  
+  	<!-- Lasyusha -->
 	<avater>
 		<NAME>Lasyusha</NAME>
 		<Hips>Hips</Hips>
@@ -2040,6 +2108,4 @@
 		<LeftBreastRoot>NONE</LeftBreastRoot>
 		<LeftBreastMid>NONE</LeftBreastMid>
 		<LeftBreastEnd>NONE</LeftBreastEnd>
-
-	</avater>
 </Avaters>
