@@ -2654,6 +2654,210 @@
 		<LeftBreastEnd>NONE</LeftBreastEnd>
 	</avater>
 
+	<!-- ルフィナちゃん -->
+	<avater>
+		<NAME>Rufina</NAME>
+		<Hips>Hips</Hips>
+		<LeftUpperLeg>Left leg</LeftUpperLeg>
+		<RightUpperLeg>Right leg</RightUpperLeg>
+		<LeftLowerLeg>Left knee</LeftLowerLeg>
+		<RightLowerLeg>Right knee</RightLowerLeg>
+		<LeftFoot>Left ankle</LeftFoot>
+		<RightFoot>Right ankle</RightFoot>
+		<Spine>Spine</Spine>
+		<Chest>Chest</Chest>
+		<Neck>Neck</Neck>
+		<Head>Head</Head>
+		<LeftShoulder>Left shoulder</LeftShoulder>
+		<RightShoulder>Right shoulder</RightShoulder>
+		<LeftUpperArm>Left arm</LeftUpperArm>
+		<RightUpperArm>Right arm</RightUpperArm>
+		<LeftLowerArm>Left elbow</LeftLowerArm>
+		<RightLowerArm>Right elbow</RightLowerArm>
+		<LeftHand>Left wrist</LeftHand>
+		<RightHand>Right wrist</RightHand>
+		<LeftToes>Left toe</LeftToes>
+		<RightToes>Right toe</RightToes>
+		<LeftEye>Eye_L</LeftEye>
+		<RightEye>Eye_R</RightEye>
+		<Jaw>NONE</Jaw>
+		<LeftThumbProximal>Thumb_Proximal_L</LeftThumbProximal>
+		<LeftThumbIntermediate>Thumb_Intermediate_L</LeftThumbIntermediate>
+		<LeftThumbDistal>Thumb_Distal_L</LeftThumbDistal>
+		<LeftIndexProximal>Index_Proximal_L</LeftIndexProximal>
+		<LeftIndexIntermediate>Index_Intermediate_L</LeftIndexIntermediate>
+		<LeftIndexDistal>Index_Distal_L</LeftIndexDistal>
+		<LeftMiddleProximal>Middle_Proximal_L</LeftMiddleProximal>
+		<LeftMiddleIntermediate>Middle_Intermediate_L</LeftMiddleIntermediate>
+		<LeftMiddleDistal>Middle_Distal_L</LeftMiddleDistal>
+		<LeftRingProximal>Ring_Proximal_L</LeftRingProximal>
+		<LeftRingIntermediate>Ring_Intermediate_L</LeftRingIntermediate>
+		<LeftRingDistal>Ring_Distal_L</LeftRingDistal>
+		<LeftLittleProximal>Little_Proximal_L</LeftLittleProximal>
+		<LeftLittleIntermediate>Little_Intermediate_L</LeftLittleIntermediate>
+		<LeftLittleDistal>Little_Distal_L</LeftLittleDistal>
+		<RightThumbProximal>Thumb_Proximal_R</RightThumbProximal>
+		<RightThumbIntermediate>Thumb_Intermediate_R</RightThumbIntermediate>
+		<RightThumbDistal>Thumb_Distal_R</RightThumbDistal>
+		<RightIndexProximal>Index_Proximal_R</RightIndexProximal>
+		<RightIndexIntermediate>Index_Intermediate_R</RightIndexIntermediate>
+		<RightIndexDistal>Index_Distal_R</RightIndexDistal>
+		<RightMiddleProximal>Middle_Proximal_R</RightMiddleProximal>
+		<RightMiddleIntermediate>Middle_Intermediate_R</RightMiddleIntermediate>
+		<RightMiddleDistal>Middle_Distal_R</RightMiddleDistal>
+		<RightRingProximal>Ring_Proximal_R</RightRingProximal>
+		<RightRingIntermediate>Ring_Intermediate_R</RightRingIntermediate>
+		<RightRingDistal>Ring_Distal_R</RightRingDistal>
+		<RightLittleProximal>Little_Proximal_R</RightLittleProximal>
+		<RightLittleIntermediate>Little_Intermediate_R</RightLittleIntermediate>
+		<RightLittleDistal>Little_Distal_R</RightLittleDistal>
+		<UpperChest>NONE</UpperChest>
+		<LastBone>NONE</LastBone>
+		------Options------
+		<RightBreastRoot>Breast_R</RightBreastRoot>
+		<RightBreastMid>Breast_R.001</RightBreastMid>
+		<RightBreastEnd>Breast_R.002</RightBreastEnd>
+		<LeftBreastRoot>Breast_L</LeftBreastRoot>
+		<LeftBreastMid>Breast_L.001</LeftBreastMid>
+		<LeftBreastEnd>Breast_L.002</LeftBreastEnd>
+	</avater>
+
+	<!-- ペルラちゃん -->
+	<avater>
+		<NAME>Perula</NAME>
+		<Hips>Hips</Hips>
+		<LeftUpperLeg>Left leg</LeftUpperLeg>
+		<RightUpperLeg>Right leg</RightUpperLeg>
+		<LeftLowerLeg>Left knee</LeftLowerLeg>
+		<RightLowerLeg>Right knee</RightLowerLeg>
+		<LeftFoot>Left ankle</LeftFoot>
+		<RightFoot>Right ankle</RightFoot>
+		<Spine>Spine</Spine>
+		<Chest>Chest</Chest>
+		<Neck>Neck</Neck>
+		<Head>Head</Head>
+		<LeftShoulder>Left shoulder</LeftShoulder>
+		<RightShoulder>Right shoulder</RightShoulder>
+		<LeftUpperArm>Left arm</LeftUpperArm>
+		<RightUpperArm>Right arm</RightUpperArm>
+		<LeftLowerArm>Left elbow</LeftLowerArm>
+		<RightLowerArm>Right elbow</RightLowerArm>
+		<LeftHand>Left wrist</LeftHand>
+		<RightHand>Right wrist</RightHand>
+		<LeftToes>Left toe</LeftToes>
+		<RightToes>Right toe</RightToes>
+		<LeftEye>Eye_L</LeftEye>
+		<RightEye>Eye_R</RightEye>
+		<Jaw>NONE</Jaw>
+		<LeftThumbProximal>Thumb_Proximal_L</LeftThumbProximal>
+		<LeftThumbIntermediate>Thumb_Intermediate_L</LeftThumbIntermediate>
+		<LeftThumbDistal>Thumb_Distal_L</LeftThumbDistal>
+		<LeftIndexProximal>Index_Proximal_L</LeftIndexProximal>
+		<LeftIndexIntermediate>Index_Intermediate_L</LeftIndexIntermediate>
+		<LeftIndexDistal>Index_Distal_L</LeftIndexDistal>
+		<LeftMiddleProximal>Middle_Proximal_L</LeftMiddleProximal>
+		<LeftMiddleIntermediate>Middle_Intermediate_L</LeftMiddleIntermediate>
+		<LeftMiddleDistal>Middle_Distal_L</LeftMiddleDistal>
+		<LeftRingProximal>Ring_Proximal_L</LeftRingProximal>
+		<LeftRingIntermediate>Ring_Intermediate_L</LeftRingIntermediate>
+		<LeftRingDistal>Ring_Distal_L</LeftRingDistal>
+		<LeftLittleProximal>Little_Proximal_L</LeftLittleProximal>
+		<LeftLittleIntermediate>Little_Intermediate_L</LeftLittleIntermediate>
+		<LeftLittleDistal>Little_Distal_L</LeftLittleDistal>
+		<RightThumbProximal>Thumb_Proximal_R</RightThumbProximal>
+		<RightThumbIntermediate>Thumb_Intermediate_R</RightThumbIntermediate>
+		<RightThumbDistal>Thumb_Distal_R</RightThumbDistal>
+		<RightIndexProximal>Index_Proximal_R</RightIndexProximal>
+		<RightIndexIntermediate>Index_Intermediate_R</RightIndexIntermediate>
+		<RightIndexDistal>Index_Distal_R</RightIndexDistal>
+		<RightMiddleProximal>Middle_Proximal_R</RightMiddleProximal>
+		<RightMiddleIntermediate>Middle_Intermediate_R</RightMiddleIntermediate>
+		<RightMiddleDistal>Middle_Distal_R</RightMiddleDistal>
+		<RightRingProximal>Ring_Proximal_R</RightRingProximal>
+		<RightRingIntermediate>Ring_Intermediate_R</RightRingIntermediate>
+		<RightRingDistal>Ring_Distal_R</RightRingDistal>
+		<RightLittleProximal>Little_Proximal_R</RightLittleProximal>
+		<RightLittleIntermediate>Little_Intermediate_R</RightLittleIntermediate>
+		<RightLittleDistal>Little_Distal_R</RightLittleDistal>
+		<UpperChest>NONE</UpperChest>
+		<LastBone>NONE</LastBone>
+		------Options------
+		<RightBreastRoot>Breast_R</RightBreastRoot>
+		<RightBreastMid>Breast_R.001</RightBreastMid>
+		<RightBreastEnd>Breast_R.002</RightBreastEnd>
+		<LeftBreastRoot>Breast_L</LeftBreastRoot>
+		<LeftBreastMid>Breast_L.001</LeftBreastMid>
+		<LeftBreastEnd>Breast_L.002</LeftBreastEnd>
+	</avater>
+
+	<!-- ライムちゃん -->
+	<avater>
+		<NAME>Lime</NAME>
+		<Hips>Hips</Hips>
+		<LeftUpperLeg>UpperLeg.L</LeftUpperLeg>
+		<RightUpperLeg>UpperLeg.R</RightUpperLeg>
+		<LeftLowerLeg>LowerLeg.L</LeftLowerLeg>
+		<RightLowerLeg>LowerLeg.R</RightLowerLeg>
+		<LeftFoot>Foot.L</LeftFoot>
+		<RightFoot>Foot.R</RightFoot>
+		<Spine>Spine</Spine>
+		<Chest>Chest</Chest>
+		<Neck>Neck</Neck>
+		<Head>Head</Head>
+		<LeftShoulder>Shoulder.L</LeftShoulder>
+		<RightShoulder>Shoulder.R</RightShoulder>
+		<LeftUpperArm>UpperArm.L</LeftUpperArm>
+		<RightUpperArm>UpperArm.R</RightUpperArm>
+		<LeftLowerArm>LowerArm.L</LeftLowerArm>
+		<RightLowerArm>LowerArm.R</RightLowerArm>
+		<LeftHand>Hand.L</LeftHand>
+		<RightHand>Hand.R</RightHand>
+		<LeftToes>Toe.L</LeftToes>
+		<RightToes>Toe.R</RightToes>
+		<LeftEye>LeftEye</LeftEye>
+		<RightEye>RightEye</RightEye>
+		<Jaw>NONE</Jaw>
+		<LeftThumbProximal>ThumbProximal.L</LeftThumbProximal>
+		<LeftThumbIntermediate>ThumbIntermediate.L</LeftThumbIntermediate>
+		<LeftThumbDistal>ThumbDistal.L</LeftThumbDistal>
+		<LeftIndexProximal>IndexProximal.L</LeftIndexProximal>
+		<LeftIndexIntermediate>IndexIntermediate.L</LeftIndexIntermediate>
+		<LeftIndexDistal>IndexDistal.L</LeftIndexDistal>
+		<LeftMiddleProximal>MiddleProximal.L</LeftMiddleProximal>
+		<LeftMiddleIntermediate>MiddleIntermediate.L</LeftMiddleIntermediate>
+		<LeftMiddleDistal>MiddleDistal.L</LeftMiddleDistal>
+		<LeftRingProximal>RingProximal.L</LeftRingProximal>
+		<LeftRingIntermediate>RingIntermediate.L</LeftRingIntermediate>
+		<LeftRingDistal>RingDistal.L</LeftRingDistal>
+		<LeftLittleProximal>LittleProximal.L</LeftLittleProximal>
+		<LeftLittleIntermediate>LittleIntermediate.L</LeftLittleIntermediate>
+		<LeftLittleDistal>LittleDistal.L</LeftLittleDistal>
+		<RightThumbProximal>ThumbProximal.R</RightThumbProximal>
+		<RightThumbIntermediate>ThumbIntermediate.R</RightThumbIntermediate>
+		<RightThumbDistal>ThumbDistal.R</RightThumbDistal>
+		<RightIndexProximal>IndexProximal.R</RightIndexProximal>
+		<RightIndexIntermediate>IndexIntermediate.R</RightIndexIntermediate>
+		<RightIndexDistal>IndexDistal.R</RightIndexDistal>
+		<RightMiddleProximal>MiddleProximal.R</RightMiddleProximal>
+		<RightMiddleIntermediate>MiddleIntermediate.R</RightMiddleIntermediate>
+		<RightMiddleDistal>MiddleDistal.R</RightMiddleDistal>
+		<RightRingProximal>RingProximal.R</RightRingProximal>
+		<RightRingIntermediate>RingIntermediate.R</RightRingIntermediate>
+		<RightRingDistal>RingDistal.R</RightRingDistal>
+		<RightLittleProximal>LittleProximal.R</RightLittleProximal>
+		<RightLittleIntermediate>LittleIntermediate.R</RightLittleIntermediate>
+		<RightLittleDistal>LittleDistal.R</RightLittleDistal>
+		<UpperChest>NONE</UpperChest>
+		<LastBone>NONE</LastBone>
+		------Options------
+		<RightBreastRoot>Breast_R.001</RightBreastRoot>
+		<RightBreastMid>Breast_R.002</RightBreastMid>
+		<RightBreastEnd>Breast_R.002_end</RightBreastEnd>
+		<LeftBreastRoot>Breast_L.001</LeftBreastRoot>
+		<LeftBreastMid>Breast_L.002</LeftBreastMid>
+		<LeftBreastEnd>Breast_L.002_end</LeftBreastEnd>
+	</avater>
+
 	<!-- サリアちゃん -->
 	<avater>
 		<NAME>Saria</NAME>
@@ -2721,5 +2925,5 @@
 		<LeftBreastMid>Breast.L.002</LeftBreastMid>
 		<LeftBreastEnd>Breast.L.003</LeftBreastEnd>
 	</avater>
-	
+
 </Avaters>
