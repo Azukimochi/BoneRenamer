@@ -3062,4 +3062,72 @@
 		<LeftBreastEnd>Breast_01_L_end</LeftBreastEnd>
 	</avater>
 
+	<!-- リィちゃん -->
+	<avater>
+		<NAME>Lii</NAME>
+		<Hips>hips</Hips>
+		<LeftUpperLeg>upperleg_L</LeftUpperLeg>
+		<RightUpperLeg>upperleg_R</RightUpperLeg>
+		<LeftLowerLeg>lowerleg_L</LeftLowerLeg>
+		<RightLowerLeg>lowerleg_R</RightLowerLeg>
+		<LeftFoot>foot_L</LeftFoot>
+		<RightFoot>foot_R</RightFoot>
+		<Spine>spine</Spine>
+		<Chest>chest</Chest>
+		<Neck>neck</Neck>
+		<Head>head</Head>
+		<LeftShoulder>shoulder_L</LeftShoulder>
+		<RightShoulder>shoulder_R</RightShoulder>
+		<LeftUpperArm>upperarm_L</LeftUpperArm>
+		<RightUpperArm>upperarm_R</RightUpperArm>
+		<LeftLowerArm>lowerarm_L</LeftLowerArm>
+		<RightLowerArm>lowerArm_R</RightLowerArm>
+		<LeftHand>hand_L</LeftHand>
+		<RightHand>hand_R</RightHand>
+		<LeftToes>toe_L</LeftToes>
+		<RightToes>toe_R</RightToes>
+		<LeftEye>Lefteye</LeftEye>
+		<RightEye>Righteye</RightEye>
+		<Jaw>NONE</Jaw>
+		<LeftThumbProximal>thumb_finger01_L</LeftThumbProximal>
+		<LeftThumbIntermediate>thumb_finger02_L</LeftThumbIntermediate>
+		<LeftThumbDistal>thumb_finger03_L</LeftThumbDistal>
+		<LeftIndexProximal>index_finger01_L</LeftIndexProximal>
+		<LeftIndexIntermediate>index_finger02_L</LeftIndexIntermediate>
+		<LeftIndexDistal>index_finger03_L</LeftIndexDistal>
+		<LeftMiddleProximal>middle_finger01_L</LeftMiddleProximal>
+		<LeftMiddleIntermediate>middle_finger02_L</LeftMiddleIntermediate>
+		<LeftMiddleDistal>middle_finger03_L</LeftMiddleDistal>
+		<LeftRingProximal>ring_finger01_L</LeftRingProximal>
+		<LeftRingIntermediate>ring_finger02_L</LeftRingIntermediate>
+		<LeftRingDistal>ring_finger03_L</LeftRingDistal>
+		<LeftLittleProximal>little_finger01_L</LeftLittleProximal>
+		<LeftLittleIntermediate>little_finger02_L</LeftLittleIntermediate>
+		<LeftLittleDistal>little_finger03_L</LeftLittleDistal>
+		<RightThumbProximal>thumb_finger01_R</RightThumbProximal>
+		<RightThumbIntermediate>thumb_finger02_R</RightThumbIntermediate>
+		<RightThumbDistal>thumb_finger03_R</RightThumbDistal>
+		<RightIndexProximal>index_finger01_R</RightIndexProximal>
+		<RightIndexIntermediate>index_finger02_R</RightIndexIntermediate>
+		<RightIndexDistal>index_finger03_R</RightIndexDistal>
+		<RightMiddleProximal>middle_finger01_R</RightMiddleProximal>
+		<RightMiddleIntermediate>middle_finger02_R</RightMiddleIntermediate>
+		<RightMiddleDistal>middle_finger03_R</RightMiddleDistal>
+		<RightRingProximal>ring_finger01_R</RightRingProximal>
+		<RightRingIntermediate>ring_finger02_R</RightRingIntermediate>
+		<RightRingDistal>ring_finger03_R</RightRingDistal>
+		<RightLittleProximal>little_finger01_R</RightLittleProximal>
+		<RightLittleIntermediate>little_finger02_R</RightLittleIntermediate>
+		<RightLittleDistal>little_finger03_R</RightLittleDistal>
+		<UpperChest>NONE</UpperChest>
+		<LastBone>NONE</LastBone>
+		------Options------
+		<RightBreastRoot>NONE</RightBreastRoot>
+		<RightBreastMid>NONE</RightBreastMid>
+		<RightBreastEnd>NONE</RightBreastEnd>
+		<LeftBreastRoot>NONE</LeftBreastRoot>
+		<LeftBreastMid>NONE</LeftBreastMid>
+		<LeftBreastEnd>NONE</LeftBreastEnd>
+	</avater>
+
 </Avaters>
