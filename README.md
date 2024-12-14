@@ -71,3 +71,6 @@
 - ぺルラちゃん (Perula)
 - ライムちゃん (Lime)
 - サリアちゃん (Saria)
+- ももかちゃん (Momoca)
+- ネメシスちゃん (Nemesis)
+- リィちゃん (Lii)
